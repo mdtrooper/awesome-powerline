@@ -10,7 +10,7 @@
 <hr/>
 
 ## Segments
-
+* [Powerline Docker](https://github.com/adrianmo/powerline-docker): A Powerline segment for showing the status of your Docker containers.
 * [Powerline Gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus): A Powerline segment for showing the status of a Git working copy.
 * [Powerline slotmachine](https://github.com/mdtrooper/powerline_slotmachine): A toy Powerline segment. This segment shows a slotmachine.
 
