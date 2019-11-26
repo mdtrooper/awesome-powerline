@@ -15,6 +15,7 @@
 * [Powerline Gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus): A Powerline segment for showing the status of a Git working copy.
 * [Powerline slotmachine](https://github.com/mdtrooper/powerline_slotmachine): A toy Powerline segment. This segment shows a slotmachine.
 * [Powerline swissarmyknife](https://github.com/mdtrooper/powerline_swissarmyknife):  A usefull Powerline segment. This segment launch a user defined complex command line and show the result.
+* [Powerline watson](https://github.com/mdtrooper/powerline_watson): A Powerline segment shows the time tracked in [watson](https://github.com/TailorDev/Watson).
 
 ## Tutorials
 
